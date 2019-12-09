@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "brain.js": "^2.0.0-alpha.9",
+    "debug": "^4.1.1",
     "jest": "^24.9.0",
-    "lowdb": "^1.0.0"
+    "lowdb": "^1.0.0",
+    "telegraf": "^3.34.1"
   }
 }
